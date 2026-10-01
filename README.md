@@ -1,8 +1,15 @@
-# yaxing1110's Skills
+# Max English
 
-这里用于长期维护个人 Codex Skills。
+让英语学习更自然、更实用，也更容易真正开口。
 
-## Skills
+## 关于 Max English
+
+- 官方学习网站：[MaxEnglish.online](https://maxenglish.online)
+- 小红书账号：**Max English**
+
+## Codex Skills
+
+这里用于长期维护 Max English 的 Codex Skills。
 
 ### [maxenglish-vlogcreat](skills/maxenglish-vlogcreat/)
 
@@ -25,4 +32,3 @@ $maxenglish-vlogcreat
 ## License
 
 本仓库采用 [MIT License](LICENSE)。
-
