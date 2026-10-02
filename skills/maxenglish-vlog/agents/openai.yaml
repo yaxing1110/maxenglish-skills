@@ -1,5 +1,5 @@
 interface:
-  display_name: "Max English Vlog"
+  display_name: "maxenglish-vlog"
   short_description: "把真实想法整理成适合朗读和跟读的自然英文口语练习稿"
   default_prompt: "Use $maxenglish-vlog to turn my ideas into natural English for personal speaking practice."
 
