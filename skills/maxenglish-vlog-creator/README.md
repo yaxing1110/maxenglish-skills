@@ -1,19 +1,19 @@
-# maxenglish-vlogcreat
+# maxenglish-vlog-creator
 
-`maxenglish-vlogcreat` 是一个面向英文 Vlog 和英文口播创作的 Codex Skill。它会先理解并整理中文主题、零散想法、语音转写或草稿，再写成自然、真实、可以直接对镜头说的英文，而不是逐句翻译。
+`maxenglish-vlog-creator` 是一个面向英文 Vlog 和英文口播创作的 Codex Skill。它会先理解并整理中文主题、零散想法、语音转写或草稿，再写成自然、真实、可以直接对镜头说的英文，而不是逐句翻译。
 
 ## 启动方式
 
 在 Codex 中输入：
 
 ```text
-$maxenglish-vlogcreat
+$maxenglish-vlog-creator
 ```
 
 也可以直接带上需求，例如：
 
 ```text
-$maxenglish-vlogcreat 帮我把这段中文整理成英文口播稿
+$maxenglish-vlog-creator 帮我把这段中文整理成英文口播稿
 ```
 
 ## 两种生成模式
@@ -71,7 +71,7 @@ $maxenglish-vlogcreat 帮我把这段中文整理成英文口播稿
 ## 目录结构
 
 ```text
-maxenglish-vlogcreat/
+maxenglish-vlog-creator/
 ├── SKILL.md
 ├── README.md
 ├── agents/

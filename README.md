@@ -11,7 +11,7 @@
 
 这里用于长期维护 Max English 的 Codex Skills。
 
-### [maxenglish-vlogcreat](skills/maxenglish-vlogcreat/)
+### [maxenglish-vlog-creator](skills/maxenglish-vlog-creator/)
 
 把主题、零散想法、语音转写或中文草稿整理成自然、真实、可直接对镜头说的英文 Vlog 口播稿。
 
@@ -24,10 +24,10 @@
 使用方式：
 
 ```text
-$maxenglish-vlogcreat
+$maxenglish-vlog-creator
 ```
 
-完整说明请查看 [Skill README](skills/maxenglish-vlogcreat/README.md)。
+完整说明请查看 [Skill README](skills/maxenglish-vlog-creator/README.md)。
 
 ## License
 
